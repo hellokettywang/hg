@@ -4,3 +4,6 @@
 [submodule "libreget"]
 	path = libreget
 	url = https://github.com/OpenSelena/libreget.git
+[submodule "moneyprinterturbo"]
+	path = moneyprinterturbo
+	url = https://github.com/harry0703/MoneyPrinterTurbo.git
