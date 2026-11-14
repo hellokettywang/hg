@@ -1,3 +1,6 @@
 [submodule "agentic-inbox"]
 	path = agentic-inbox
 	url = https://github.com/cloudflare/agentic-inbox.git
+[submodule "libreget"]
+	path = libreget
+	url = https://github.com/OpenSelena/libreget.git
